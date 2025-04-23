@@ -1,0 +1,4 @@
+# Level 2 gitignore
+*.tmp
+level2_ignored/
+ignored_at_level2.md 

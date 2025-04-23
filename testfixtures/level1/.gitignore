@@ -1,0 +1,4 @@
+# Level 1 gitignore
+ignored_in_level1.go
+level1_ignored_dir/
+*.log 

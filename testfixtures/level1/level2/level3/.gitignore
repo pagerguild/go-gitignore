@@ -1,0 +1,4 @@
+# Level 3 gitignore
+*.binary
+level3_ignored_file.go
+**/*.generated.js 

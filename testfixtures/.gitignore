@@ -1,0 +1,4 @@
+# Root level gitignore
+*.txt
+/root_ignored_dir/
+!important.txt 
