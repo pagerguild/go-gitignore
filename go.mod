@@ -1,4 +1,4 @@
-module github.com/sabhiram/go-gitignore
+module github.com/pagerguild/go-gitignore
 
 go 1.24.2
 
